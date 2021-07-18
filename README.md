@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python based Calculator
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 Mail me at my ID : pratyushakumar1304@gmail.com
+- Lets look for change
+- 
 
 <!---
 KSubbel/KSubbel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
